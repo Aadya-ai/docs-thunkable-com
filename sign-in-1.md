@@ -8,9 +8,9 @@
 To use Sign In, you will need to first create your own Firebase account and project
 {% endhint %}
 
-## Getting Started
+## Getting Started :
 
-### Create your free [Firebase](https://firebase.google.com/) account and create a new project
+### Create your free [Firebase](https://firebase.google.com/) account and create a new project, oh yeah!!!
 
 ![](.gitbook/assets/thunkable-documentation-exhibits-70%20%281%29.png)
 
